@@ -1,2 +1,2 @@
 # ChatApp1
-Simple Chat application built using HTML, CSS and JS 
+Simple Chat application built using raw HTML and Socket.IO
